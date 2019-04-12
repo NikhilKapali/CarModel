@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="layout_display">
+        <item name="android:orientation">vertical</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:background">#F17A0A</item>
+    </style>
+</resources>
